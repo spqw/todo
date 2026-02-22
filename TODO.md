@@ -4,4 +4,3 @@
 
 - [ ] Fix updates inbox — need input
 - [ ] Add search to simulta
-- [ ] Test item from web UI
